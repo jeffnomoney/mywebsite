@@ -2,7 +2,7 @@
 
 [University of Illinois at Urbana Champaign](https://http://illinois.edu/) DGS Freshman
 
-was in the FIGHTING ILLINOIS ARMY ROTC as a cadet MS1. ![Image-w50](https://github.com/jeffnomoney/mywebsite/blob/master/Iarmyicon.jpg)
+was in the FIGHTING ILLINOIS ARMY ROTC as a cadet MS1. ![Image-w50](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjvpJ2H6uTXAhWGBBoKHa9FC_EQjRwIBw&url=https%3A%2F%2Fwww.army.mil%2Farticle%2F160734%2Fda_announces_rotational_deployments&psig=AOvVaw3N3ZyAhM3cWhUCyxHJC4fy&ust=1512080788223509)
 
 ### Markdown
 
