@@ -2,7 +2,7 @@
 
 [University of Illinois at Urbana Champaign](https://http://illinois.edu/) DGS Freshman
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+was in the FIGHTING ILLINOIS ARMY ROTC as a cadet MS1.
 
 ### Markdown
 
